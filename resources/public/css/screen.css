@@ -31,4 +31,8 @@ body {
     margin-left: 1rem;
   }
 }
-
+.clojurescript-content {
+    margin: 50px;
+    padding: 40px;
+    Background: lightgreen;
+}
