@@ -30,7 +30,8 @@
                  [ring/ring-defaults "0.3.0"]
                  [selmer "1.10.7"]
                  [bouncer "1.0.1"]
-                 [org.clojure/clojurescript "1.9.562" :scope "provided"]]
+                 [org.clojure/clojurescript "1.9.562" :scope "provided"]
+                 [reagent "0.6.2"]]
 
   :min-lein-version "2.0.0"
 
