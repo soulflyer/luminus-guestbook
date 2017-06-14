@@ -31,7 +31,8 @@
                  [selmer "1.10.7"]
                  [bouncer "1.0.1"]
                  [org.clojure/clojurescript "1.9.562" :scope "provided"]
-                 [reagent "0.6.2"]]
+                 [reagent "0.6.2"]
+                 [cljs-ajax "0.6.0"]]
 
   :min-lein-version "2.0.0"
 

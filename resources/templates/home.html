@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% block content %}
+<input id="token" type="hidden" value="{{csrf-token}}"></input>
 <div id="content">
   <h2>Clojurescript stuff will go here</h2>
   <div id="clojurescript-content">
